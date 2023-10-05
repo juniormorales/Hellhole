@@ -1,6 +1,6 @@
 function onEvent(name,v1,v2)
     if name == 'cinematic' then
-        local bordersSize = '110'
+        local bordersSize = '150'
         local easing = 'quartInOut'
         local duration = 0.6
         local enable = 'true'
